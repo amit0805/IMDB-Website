@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  1 00:44:09 2018
-
-@author: Ketan
-"""
 
 # **************************** Trying Web Scraping using BeautifulSoup ****************
 
