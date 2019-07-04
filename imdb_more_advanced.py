@@ -1,16 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  3 22:46:03 2018
-
-@author: Ketan
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  2 23:51:14 2018
-
-@author: Ketan
-"""
 
 def retrieve(name: str):
   
