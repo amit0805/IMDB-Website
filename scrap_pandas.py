@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  2 00:17:55 2018
-
-@author: Ketan
-"""
 
 # *************************Scrap Movies using dataframe ********************************
 
