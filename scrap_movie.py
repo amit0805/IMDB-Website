@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  1 02:55:16 2018
-
-@author: Ketan
-"""
 
 # ************************** Scraping movie data ***************************************
 
