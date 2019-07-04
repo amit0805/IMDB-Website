@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  2 23:51:14 2018
-
-@author: Ketan
-"""
 
 def retrieve(name: str):
   
